@@ -12,7 +12,7 @@
 **Mon premier RayCaster avec la minilibX**
 
 
-![Aperçu du jeu](cub3d-exemple-map1.png)
+![Aperçu du jeu](cub3D-exemple-map1.png)
 
 ## 📝 Description
 
